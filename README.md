@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2886-faulty-keyboard](https://github.com/Praveenadapa425/LeetCode/tree/master/2886-faulty-keyboard) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Praveenadapa425/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Praveenadapa425/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

@@ -1,28 +1,26 @@
 class Solution {
     public int canBeTypedWords(String text, String brokenLetters) {
-        int count = 0;
-        boolean flag = true;
-        boolean[] arr = new  boolean[26];
+        
+        boolean[] broken = new  boolean[26];
         for(char ch : brokenLetters.toCharArray()){
-            arr[ch - 'a'] = true;   // marking broken char
+            broken[ch - 'a'] = true;   // marking broken char
         }
+
+        int validWordCount = 0;
+        boolean validWord = true;
 
         for(char ch : text.toCharArray()){
             if(ch == ' '){
-                if(flag == true) count++;  
-                flag = true;
+                if(validWord == true) validWordCount++;  
+                validWord = true;
                 
-            }else if(flag && arr[ch - 'a']){
-
-                    flag = false; // if broken char appears 
-
+            }else if(broken[ch - 'a']){
+                    validWord = false; // if broken char appears 
             }
-            
-            // System.out.println(flag + "  "+ count);
 
         }
-        if(flag) count++;
-        return count;
+        if(validWord) validWordCount++;
+        return validWordCount;
         
     }
 }

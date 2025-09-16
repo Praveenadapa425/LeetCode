@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Praveenadapa425/LeetCode/tree/master/0002-add-two-numbers) |
+| [0168-excel-sheet-column-title](https://github.com/Praveenadapa425/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0445-add-two-numbers-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Praveenadapa425/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Praveenadapa425/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2886-faulty-keyboard](https://github.com/Praveenadapa425/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Praveenadapa425/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |

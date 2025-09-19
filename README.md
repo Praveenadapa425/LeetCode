@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Praveenadapa425/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0168-excel-sheet-column-title](https://github.com/Praveenadapa425/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Praveenadapa425/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2886-faulty-keyboard](https://github.com/Praveenadapa425/LeetCode/tree/master/2886-faulty-keyboard) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Praveenadapa425/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Praveenadapa425/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Praveenadapa425/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Praveenadapa425/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Praveenadapa425/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Praveenadapa425/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Praveenadapa425/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Praveenadapa425/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

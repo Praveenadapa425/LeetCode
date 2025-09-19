@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Praveenadapa425/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Praveenadapa425/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Praveenadapa425/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Praveenadapa425/LeetCode/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/Praveenadapa425/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0445-add-two-numbers-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Praveenadapa425/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Praveenadapa425/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Praveenadapa425/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Praveenadapa425/LeetCode/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/Praveenadapa425/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Praveenadapa425/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2886-faulty-keyboard](https://github.com/Praveenadapa425/LeetCode/tree/master/2886-faulty-keyboard) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Praveenadapa425/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Praveenadapa425/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Praveenadapa425/LeetCode/tree/master/0012-integer-to-roman) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Praveenadapa425/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Praveenadapa425/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting

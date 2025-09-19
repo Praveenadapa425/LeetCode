@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Praveenadapa425/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Praveenadapa425/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Praveenadapa425/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0168-excel-sheet-column-title](https://github.com/Praveenadapa425/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Praveenadapa425/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2886-faulty-keyboard](https://github.com/Praveenadapa425/LeetCode/tree/master/2886-faulty-keyboard) |

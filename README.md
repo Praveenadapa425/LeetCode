@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Praveenadapa425/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Praveenadapa425/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Praveenadapa425/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/Praveenadapa425/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Praveenadapa425/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Praveenadapa425/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Praveenadapa425/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/Praveenadapa425/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -104,12 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Praveenadapa425/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Praveenadapa425/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Praveenadapa425/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/Praveenadapa425/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Praveenadapa425/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Praveenadapa425/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Praveenadapa425/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/Praveenadapa425/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 ## Sliding Window
 |  |
 | ------- |

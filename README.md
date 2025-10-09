@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Praveenadapa425/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0278-first-bad-version](https://github.com/Praveenadapa425/LeetCode/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/Praveenadapa425/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Praveenadapa425/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Praveenadapa425/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

@@ -1,6 +1,6 @@
 class Solution {
     public int dominantIndices(int[] nums) {
-        int sum = 0;
+        long sum = 0;
         int n = nums.length;
         for(int i=0;i<n;i++) sum+= nums[i];
 
@@ -8,7 +8,7 @@ class Solution {
         for(int i=0;i<n-1;i++){
             sum = sum -nums[i];
 
-            if(nums[i] > sum /(n-i-1)) count++;
+            if(nums[i] > (double) sum /(n-i-1)) count++;
         }
         // if(nums.length == 1) return 0;
         // int n = nums.length;

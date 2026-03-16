@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Praveenadapa425/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1903-largest-odd-number-in-string](https://github.com/Praveenadapa425/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2886-faulty-keyboard](https://github.com/Praveenadapa425/LeetCode/tree/master/2886-faulty-keyboard) |
+| [3856-trim-trailing-vowels](https://github.com/Praveenadapa425/LeetCode/tree/master/3856-trim-trailing-vowels) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Praveenadapa425/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |

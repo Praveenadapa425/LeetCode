@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Praveenadapa425/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0682-baseball-game](https://github.com/Praveenadapa425/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Praveenadapa425/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/Praveenadapa425/LeetCode/tree/master/1642-water-bottles) |
 | [2483-task-scheduler-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/2483-task-scheduler-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Praveenadapa425/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Praveenadapa425/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Praveenadapa425/LeetCode/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/Praveenadapa425/LeetCode/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/Praveenadapa425/LeetCode/tree/master/0890-lemonade-change) |
 | [2483-task-scheduler-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Praveenadapa425/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Praveenadapa425/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Praveenadapa425/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/Praveenadapa425/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Praveenadapa425/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Praveenadapa425/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree

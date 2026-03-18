@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Praveenadapa425/LeetCode/tree/master/1086-divisor-game) |
 | [1642-water-bottles](https://github.com/Praveenadapa425/LeetCode/tree/master/1642-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/Praveenadapa425/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Praveenadapa425/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Praveenadapa425/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Recursion
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Praveenadapa425/LeetCode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Praveenadapa425/LeetCode/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/Praveenadapa425/LeetCode/tree/master/0890-lemonade-change) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Praveenadapa425/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2483-task-scheduler-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Praveenadapa425/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Praveenadapa425/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Praveenadapa425/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Praveenadapa425/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Praveenadapa425/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## Tree
 |  |
 | ------- |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Praveenadapa425/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Praveenadapa425/LeetCode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Praveenadapa425/LeetCode/tree/master/1013-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Praveenadapa425/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->

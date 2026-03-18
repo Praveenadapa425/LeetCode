@@ -3,19 +3,14 @@ class Solution {
        Stack<Pair> stack = new Stack<>();
 
        for(char c : s.toCharArray()){
-         if(stack.empty() || stack.peek().key != c){
-            stack.push(new Pair(c , 1));
+         if(!stack.empty() && stack.peek().key == c){
+            stack.peek().value++;
          }else{
-            Pair temp = stack.pop();
-            if(temp.value > k-1){
-                temp.value=temp.value - k + 1;
-                stack.push(temp);
-            }else if(temp.value < k-1){
-                temp.value= temp.value + 1;
-                stack.push(temp);
-            }
+            stack.push(new Pair(c , 1));
          }
+         if(stack.peek().value == k) stack.pop();
        }
+
         StringBuilder sb = new StringBuilder();
         while(!stack.empty()){
             Pair temp = stack.pop();

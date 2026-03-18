@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Praveenadapa425/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Praveenadapa425/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Praveenadapa425/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Praveenadapa425/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Praveenadapa425/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/Praveenadapa425/LeetCode/tree/master/0118-pascals-triangle) |
@@ -176,11 +177,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Praveenadapa425/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Praveenadapa425/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Praveenadapa425/LeetCode/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Praveenadapa425/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Praveenadapa425/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Praveenadapa425/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Praveenadapa425/LeetCode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Praveenadapa425/LeetCode/tree/master/0509-fibonacci-number) |

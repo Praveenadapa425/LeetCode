@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Praveenadapa425/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Praveenadapa425/LeetCode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Praveenadapa425/LeetCode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/Praveenadapa425/LeetCode/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/Praveenadapa425/LeetCode/tree/master/0890-lemonade-change) |
 | [1991-find-the-middle-index-in-array](https://github.com/Praveenadapa425/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Praveenadapa425/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Praveenadapa425/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Praveenadapa425/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Praveenadapa425/LeetCode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Praveenadapa425/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [3639-zero-array-transformation-i](https://github.com/Praveenadapa425/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Memoization

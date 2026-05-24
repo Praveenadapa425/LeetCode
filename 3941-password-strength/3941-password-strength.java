@@ -6,19 +6,30 @@ class Solution {
         }
         int s = 0;
         for(char ch : set){
-            int t = ch;
-            if(t >= 97 && t <=122){
-               s += 1;
-            }
-            else if(t >=65 && t<=90){
+            if(Character.isLowerCase(ch)){
+                s += 1;
+            }else if(Character.isUpperCase(ch)){
                 s += 2;
-            }else if(t>= 48 && t<= 57){
+            }else if(Character.isDigit(ch)){
                 s += 3;
             }else{
                 s += 5;
             }
-
         }
+        // for(char ch : set){
+        //     int t = ch;
+        //     if(t >= 97 && t <=122){
+        //        s += 1;
+        //     }
+        //     else if(t >=65 && t<=90){
+        //         s += 2;
+        //     }else if(t>= 48 && t<= 57){
+        //         s += 3;
+        //     }else{
+        //         s += 5;
+        //     }
+
+        // }
         return s;
     }
 }

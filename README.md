@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Praveenadapa425/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Praveenadapa425/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2483-task-scheduler-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/2483-task-scheduler-ii) |
+| [2540-minimum-common-value](https://github.com/Praveenadapa425/LeetCode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveenadapa425/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Praveenadapa425/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Praveenadapa425/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Praveenadapa425/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Praveenadapa425/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2483-task-scheduler-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/2483-task-scheduler-ii) |
+| [2540-minimum-common-value](https://github.com/Praveenadapa425/LeetCode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveenadapa425/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Praveenadapa425/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Praveenadapa425/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Praveenadapa425/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/Praveenadapa425/LeetCode/tree/master/0611-valid-triangle-number) |
+| [2540-minimum-common-value](https://github.com/Praveenadapa425/LeetCode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/Praveenadapa425/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/Praveenadapa425/LeetCode/tree/master/0844-backspace-string-compare) |
+| [2540-minimum-common-value](https://github.com/Praveenadapa425/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |

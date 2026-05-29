@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Praveenadapa425/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Praveenadapa425/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Praveenadapa425/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Praveenadapa425/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveenadapa425/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Praveenadapa425/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Praveenadapa425/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Praveenadapa425/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3639-zero-array-transformation-i](https://github.com/Praveenadapa425/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |

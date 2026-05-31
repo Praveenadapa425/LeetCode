@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Praveenadapa425/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1991-find-the-middle-index-in-array](https://github.com/Praveenadapa425/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Praveenadapa425/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2126-destroying-asteroids](https://github.com/Praveenadapa425/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Praveenadapa425/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2483-task-scheduler-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2540-minimum-common-value](https://github.com/Praveenadapa425/LeetCode/tree/master/2540-minimum-common-value) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Praveenadapa425/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Praveenadapa425/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Praveenadapa425/LeetCode/tree/master/0621-task-scheduler) |
+| [2126-destroying-asteroids](https://github.com/Praveenadapa425/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Greedy
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Praveenadapa425/LeetCode/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/Praveenadapa425/LeetCode/tree/master/0890-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Praveenadapa425/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2126-destroying-asteroids](https://github.com/Praveenadapa425/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Matrix
 |  |
 | ------- |

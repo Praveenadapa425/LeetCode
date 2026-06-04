@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Praveenadapa425/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Praveenadapa425/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Praveenadapa425/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Praveenadapa425/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Praveenadapa425/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Praveenadapa425/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Praveenadapa425/LeetCode/tree/master/0054-spiral-matrix) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Praveenadapa425/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Praveenadapa425/LeetCode/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Praveenadapa425/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Praveenadapa425/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |

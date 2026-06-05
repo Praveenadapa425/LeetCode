@@ -20,11 +20,12 @@ class Solution {
                  map.put(key ,list);
             }
         }
+        return new ArrayList<>(map.values());
 
-        List<List<String>> ans = new ArrayList<>();
-        for(List<String> list :map.values()){
-            ans.add(list);
-        }
-        return ans;
+        // List<List<String>> ans = new ArrayList<>();
+        // for(List<String> list :map.values()){
+        //     ans.add(list);
+        // }
+        // return ans;
     }
 }

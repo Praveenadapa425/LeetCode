@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Praveenadapa425/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1903-largest-odd-number-in-string](https://github.com/Praveenadapa425/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Praveenadapa425/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Praveenadapa425/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2886-faulty-keyboard](https://github.com/Praveenadapa425/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Praveenadapa425/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3856-trim-trailing-vowels](https://github.com/Praveenadapa425/LeetCode/tree/master/3856-trim-trailing-vowels) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Praveenadapa425/LeetCode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Praveenadapa425/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveenadapa425/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Praveenadapa425/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Praveenadapa425/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Praveenadapa425/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Praveenadapa425/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |

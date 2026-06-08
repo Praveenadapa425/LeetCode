@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Praveenadapa425/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Praveenadapa425/LeetCode/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/Praveenadapa425/LeetCode/tree/master/0890-lemonade-change) |
+| [0905-sort-array-by-parity](https://github.com/Praveenadapa425/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Praveenadapa425/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Praveenadapa425/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1390-four-divisors](https://github.com/Praveenadapa425/LeetCode/tree/master/1390-four-divisors) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/Praveenadapa425/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/Praveenadapa425/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/Praveenadapa425/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Praveenadapa425/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Praveenadapa425/LeetCode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Praveenadapa425/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Praveenadapa425/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Praveenadapa425/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Praveenadapa425/LeetCode/tree/master/0621-task-scheduler) |
+| [0905-sort-array-by-parity](https://github.com/Praveenadapa425/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2126-destroying-asteroids](https://github.com/Praveenadapa425/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Praveenadapa425/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Praveenadapa425/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |

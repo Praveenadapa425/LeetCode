@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Praveenadapa425/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/Praveenadapa425/LeetCode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Praveenadapa425/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Praveenadapa425/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/Praveenadapa425/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2483-task-scheduler-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2886-faulty-keyboard](https://github.com/Praveenadapa425/LeetCode/tree/master/2886-faulty-keyboard) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Praveenadapa425/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2126-destroying-asteroids](https://github.com/Praveenadapa425/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Praveenadapa425/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Praveenadapa425/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Praveenadapa425/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2483-task-scheduler-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2540-minimum-common-value](https://github.com/Praveenadapa425/LeetCode/tree/master/2540-minimum-common-value) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/Praveenadapa425/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/Praveenadapa425/LeetCode/tree/master/0844-backspace-string-compare) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Praveenadapa425/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Praveenadapa425/LeetCode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Praveenadapa425/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |

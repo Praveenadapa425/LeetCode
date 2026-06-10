@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Praveenadapa425/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Praveenadapa425/LeetCode/tree/master/0118-pascals-triangle) |
+| [0137-single-number-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Praveenadapa425/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Praveenadapa425/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Praveenadapa425/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Praveenadapa425/LeetCode/tree/master/0190-reverse-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveenadapa425/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Praveenadapa425/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |

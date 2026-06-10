@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Praveenadapa425/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Praveenadapa425/LeetCode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Praveenadapa425/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Praveenadapa425/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Praveenadapa425/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Praveenadapa425/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Praveenadapa425/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Praveenadapa425/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Praveenadapa425/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Praveenadapa425/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Praveenadapa425/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Praveenadapa425/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -415,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Praveenadapa425/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Praveenadapa425/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

@@ -5,18 +5,23 @@ class Solution {
             map.put(num , map.getOrDefault(num , 0)+1);
         }
 
-        PriorityQueue<Integer> pq = new PriorityQueue(
-            (a,b) -> map.get(b) - map.get(a)
-        );
-
-        for(int key :map.keySet()){
-            pq.offer(key);
+        int n= nums.length;
+       List<Integer>[] bucket = new ArrayList[n+1];
+    for(int key:map.keySet()){
+        if(bucket[map.get(key)] == null){
+            bucket[map.get(key)] = new ArrayList<>();
         }
-
-        int[] ans =new  int[k];
-        for(int i=0;i<k;i++){
-            ans[i] = pq.poll();
-        }
+        bucket[map.get(key)].add(key);
+    }
+       int ans[] = new int[k];
+       int idx = 0;
+       for(int i=n;i>0;i--){
+         if(bucket[i]== null) continue;
+         for(int num:bucket[i]){
+             ans[idx++] = num;
+             if(idx == k) return ans;
+         }
+       }
         return ans;
     }
 }

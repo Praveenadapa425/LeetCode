@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Praveenadapa425/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2483-task-scheduler-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2886-faulty-keyboard](https://github.com/Praveenadapa425/LeetCode/tree/master/2886-faulty-keyboard) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Praveenadapa425/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Praveenadapa425/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Praveenadapa425/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Praveenadapa425/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Praveenadapa425/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Praveenadapa425/LeetCode/tree/master/0190-reverse-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveenadapa425/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Praveenadapa425/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Praveenadapa425/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Interactive
 |  |
 | ------- |

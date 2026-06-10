@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Praveenadapa425/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Praveenadapa425/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Praveenadapa425/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/Praveenadapa425/LeetCode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Praveenadapa425/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Praveenadapa425/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Praveenadapa425/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Praveenadapa425/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Praveenadapa425/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/Praveenadapa425/LeetCode/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/Praveenadapa425/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Praveenadapa425/LeetCode/tree/master/0621-task-scheduler) |
 | [0905-sort-array-by-parity](https://github.com/Praveenadapa425/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Praveenadapa425/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Praveenadapa425/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Praveenadapa425/LeetCode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Praveenadapa425/LeetCode/tree/master/0621-task-scheduler) |
 ## Prefix Sum
 |  |

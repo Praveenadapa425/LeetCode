@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Praveenadapa425/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Praveenadapa425/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1768-merge-strings-alternately](https://github.com/Praveenadapa425/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Praveenadapa425/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Praveenadapa425/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Praveenadapa425/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Praveenadapa425/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Praveenadapa425/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1768-merge-strings-alternately](https://github.com/Praveenadapa425/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Praveenadapa425/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Praveenadapa425/LeetCode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Praveenadapa425/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |

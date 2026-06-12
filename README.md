@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Praveenadapa425/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Praveenadapa425/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Praveenadapa425/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Praveenadapa425/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1390-four-divisors](https://github.com/Praveenadapa425/LeetCode/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/Praveenadapa425/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Praveenadapa425/LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Praveenadapa425/LeetCode/tree/master/0645-set-mismatch) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Praveenadapa425/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Praveenadapa425/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Praveenadapa425/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2404-most-frequent-even-element](https://github.com/Praveenadapa425/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2483-task-scheduler-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/2483-task-scheduler-ii) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Praveenadapa425/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Praveenadapa425/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Praveenadapa425/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2126-destroying-asteroids](https://github.com/Praveenadapa425/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Praveenadapa425/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Praveenadapa425/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -451,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Praveenadapa425/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Praveenadapa425/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

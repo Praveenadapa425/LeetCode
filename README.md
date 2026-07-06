@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Praveenadapa425/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Praveenadapa425/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1288-remove-covered-intervals](https://github.com/Praveenadapa425/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Praveenadapa425/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Praveenadapa425/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1390-four-divisors](https://github.com/Praveenadapa425/LeetCode/tree/master/1390-four-divisors) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Praveenadapa425/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Praveenadapa425/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1288-remove-covered-intervals](https://github.com/Praveenadapa425/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Praveenadapa425/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Praveenadapa425/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Praveenadapa425/LeetCode/tree/master/2126-destroying-asteroids) |

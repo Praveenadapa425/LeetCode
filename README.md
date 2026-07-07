@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Praveenadapa425/LeetCode/tree/master/0086-partition-list) |
 | [0445-add-two-numbers-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/Praveenadapa425/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Praveenadapa425/LeetCode/tree/master/0706-design-hashmap) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Praveenadapa425/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Praveenadapa425/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Praveenadapa425/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Praveenadapa425/LeetCode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Praveenadapa425/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Praveenadapa425/LeetCode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Praveenadapa425/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Praveenadapa425/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Praveenadapa425/LeetCode/tree/master/0739-daily-temperatures) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Praveenadapa425/LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Praveenadapa425/LeetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Praveenadapa425/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Praveenadapa425/LeetCode/tree/master/0706-design-hashmap) |
 | [1189-maximum-number-of-balloons](https://github.com/Praveenadapa425/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Praveenadapa425/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Praveenadapa425/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Praveenadapa425/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Praveenadapa425/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Praveenadapa425/LeetCode/tree/master/0706-design-hashmap) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -538,4 +542,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Praveenadapa425/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/Praveenadapa425/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Praveenadapa425/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->

@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Praveenadapa425/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Praveenadapa425/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Praveenadapa425/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Praveenadapa425/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Praveenadapa425/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Praveenadapa425/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Praveenadapa425/LeetCode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Praveenadapa425/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Praveenadapa425/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Praveenadapa425/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/Praveenadapa425/LeetCode/tree/master/0645-set-mismatch) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praveenadapa425/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Praveenadapa425/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |

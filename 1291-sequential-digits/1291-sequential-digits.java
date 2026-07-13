@@ -6,9 +6,9 @@ class Solution {
 
         ArrayList<Integer> ans = new ArrayList<>();
         for(int i = start ; i<=end ; i++){
-            for(int j = 0,k=i;k<number.length() ; j++,k++){
+            for(int j = i;j<number.length() ; j++){
 
-                int n = Integer.parseInt(number.substring(j,k));
+                int n = Integer.parseInt(number.substring(j-i,j));
                 if(n >=low && n <= high) ans.add(n);
             }
         }

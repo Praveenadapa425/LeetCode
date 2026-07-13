@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Praveenadapa425/LeetCode/tree/master/1291-sequential-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Praveenadapa425/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Design
 |  |

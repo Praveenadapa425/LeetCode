@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Praveenadapa425/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Praveenadapa425/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Praveenadapa425/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Praveenadapa425/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Praveenadapa425/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2886-faulty-keyboard](https://github.com/Praveenadapa425/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Praveenadapa425/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
